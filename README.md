@@ -3,14 +3,15 @@
 # Serhii Panchyshyn
 
 <a href="https://serhii.pro">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=AI+Assurance+%26+Operations;Evals+%C2%B7+Drift+Detection+%C2%B7+Cost+Control;AI+systems+don%27t+crash.+They+rot.;Ex-PwC+compliance+%C2%B7+7+years+in+production" alt="AI Assurance & Operations — Evals, Drift Detection, Cost Control" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=AI+Forward+Deployed+Engineer;I+embed+with+your+team+and+ship+AI+into+production;Product+%C2%B7+Growth+Engineering+%C2%B7+Applied+AI;Shipping+in+week+one%2C+not+a+deck+in+week+three" alt="AI Forward Deployed Engineer — Product, Growth Engineering, Applied AI" />
 </a>
 
-### When your AI gets it wrong, you should hear it from a dashboard — not a customer.
+### I embed with your team and ship AI into production.
 
 <p>
+  <a href="https://serhii.pro"><img src="https://img.shields.io/badge/🟢_Now_booking-Book_a_call-2EA043?style=for-the-badge" alt="Now booking — book a call"/></a>
   <a href="https://serhii.pro"><img src="https://img.shields.io/badge/serhii.pro-Website-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
-  <a href="https://www.linkedin.com/in/serhiipanchyshyn"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/serhii-panchyshyn/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://twitter.com/s_panchyshyn"><img src="https://img.shields.io/badge/@s__panchyshyn-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"/></a>
   <a href="mailto:panchyshyn.serhii@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
@@ -19,50 +20,51 @@
 
 ---
 
-## 🧨 The problem I work on
+I help teams **ship AI features, fix activation, and rebuild internal workflows** — without scaling headcount.
 
-Your AI feature works. **That is not the question.**
+One seat across **product, growth engineering, and applied AI**. Embedded with your team: standups, Slack, PRs. **Shipping in week one, not a deck in week three.**
 
-The question is what happens when:
+## 🎯 Outcomes
 
-- 🔄 The provider quietly ships a new model behind the same endpoint. Nothing throws. Quality decays for six weeks until a customer emails you about it.
-- 💸 The bill goes from $3K to $30K — and every single month, the increase looked small.
-- 📋 Someone senior asks you to prove an output was correct **on a specific date**. And you can't.
-
-None of these throw an exception. That's the whole problem. Your monitoring watches for crashes.
-
-> **AI systems don't crash. They rot.**
-
-## 🛡️ What I do
-
-I do **AI assurance and operations** for regulated SaaS:
-
-| | |
-|---|---|
-| ✅ **Evals** | Output quality verified *before* a single user sees it |
-| 📉 **Drift detection** | Catch quality decay before it reaches customers |
-| 💰 **Cost control** | Model routing & comparison analysis — know what every line on the bill does |
-| 🔀 **Model migrations** | Swap providers/versions without praying |
-| 🧾 **Evidence trail** | The audit trail you'll need when someone with authority asks *why* |
+- 🚢 **AI in production**, not in decks
+- 🔧 **Internal systems** your team actually uses
+- 🤖 **Customer-facing AI** competitors don't have
+- 🔁 **Growth loops** that compound after I'm gone
+- 📈 **Measurable lifts** in conversion and retention
+- 🎓 **A team that ships AI without me**
 
 ## 📊 Receipts
 
 - ✂️ Cut projected AI infrastructure costs by **35%** through model routing analysis
 - 🚀 Took a company's first generative AI feature from **zero to production in 10 weeks**
-- 🔬 Built the **evaluation framework** that verified output quality before launch
-- 👁️ Shipped the **observability layer** that catches quality drift before customers do
+- 🔬 Built the **evaluation framework** that verified output quality before a single user saw it
+- 👁️ Shipped the **observability layer** that catches AI quality drift before customers do
 - ⏱️ Automated a manual workflow that was costing an ops team **~10 hours a week**
 
-## 🧭 The road here
+## 🧭 How I work
+
+| | |
+|---|---|
+| 🪑 **I sit inside your team** | Standups, Slack, PRs. Not an agency, not a deck — a teammate who ships. |
+| 🎛️ **One seat, three jobs** | Product, growth engineering, and applied AI in one person. Two exits and AI products in production. |
+| 🌱 **The work compounds** | When I leave, your team ships AI without me. Patterns, playbooks, internal champions. |
+
+**Engagements:**
+
+| ⚡ 2-Week Sprint | 🔄 Monthly Retainer | 🛠️ Forward Deployed |
+|---|---|---|
+| A working system in your hands in two weeks | Ongoing partner. Systems shipped weekly | Prefer to build it yourself? Hands-on AI co-building, month to month |
+
+## 🛤️ The road here
 
 ```text
-PwC (tax compliance) ──► Full-stack engineer ──► Senior SWE @ logistics SaaS ──► AI assurance consultant
-     2017–2018              2019 onward             Golang/Node microservices,        evals, drift, cost,
-                                                    3rd-party integrations,           model risk — @animanova
+PwC (tax compliance) ──► Full-stack engineer ──► Senior SWE @ logistics SaaS ──► AI Forward Deployed Engineer
+     2017–2018              2019 onward             Golang/Node microservices,        embedded builds, evals,
+                                                    3rd-party integrations,           growth loops — @animanova
                                                     testing strategy rebuild
 ```
 
-Two years in compliance at PwC, then seven years building software — three of them on production LLM systems. I've been on the other side of the table when an output is wrong and someone senior asks why. **Most AI engineers have never had that conversation. I have.** It's why I build AI systems that can survive an audit.
+Two years in compliance at PwC, then seven years building software — three of them on production LLM systems. I've been on the other side of the table when an output is wrong and someone senior asks why. It's why I build AI systems that can survive an audit.
 
 ## 🛠️ Toolbox
 
@@ -108,13 +110,9 @@ Two years in compliance at PwC, then seven years building software — three of 
 
 ## 🤝 Work with me
 
-Start with a **one-week audit. Fixed fee.** You get:
+Start with a **2-week sprint** — a working system in your hands in two weeks. Or go retainer: ongoing partner, systems shipped weekly.
 
-📍 a cost map &nbsp;·&nbsp; 🧪 an eval coverage report &nbsp;·&nbsp; ⚠️ a model risk register &nbsp;·&nbsp; 📝 a plan to cut your AI spend by 30%
-
-Move to the retainer and the audit is credited.
-
-> If there's a line on your AI bill nobody can explain — or you couldn't prove your outputs were correct last Tuesday — **[message me](https://serhii.pro)**.
+> **[Book a call →](https://serhii.pro)**
 
 <div align="center">
 
