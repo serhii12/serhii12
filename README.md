@@ -3,13 +3,13 @@
 # Serhii Panchyshyn
 
 <a href="https://serhii.pro">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=AI+Forward+Deployed+Engineer;I+embed+with+your+team+and+ship+AI+into+production;Product+%C2%B7+Growth+Engineering+%C2%B7+Applied+AI;Shipping+in+week+one%2C+not+a+deck+in+week+three" alt="AI Forward Deployed Engineer — Product, Growth Engineering, Applied AI" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=AI+Forward+Deployed+Engineer;I+embed+with+your+team+and+ship+AI+into+production;Product+%C2%B7+Growth+Engineering+%C2%B7+Applied+AI;Shipping+in+week+one%2C+not+a+deck+in+week+three;Evals+%C2%B7+drift+detection+%C2%B7+cost+control+built+in" alt="AI Forward Deployed Engineer — Product, Growth Engineering, Applied AI, with evals, drift detection and cost control built in" />
 </a>
 
 ### I embed with your team and ship AI into production.
 
 <p>
-  <a href="https://serhii.pro"><img src="https://img.shields.io/badge/🟢_Now_booking-Book_a_call-2EA043?style=for-the-badge" alt="Now booking — book a call"/></a>
+  <a href="https://cal.com/serhiip/intro-call"><img src="https://img.shields.io/badge/🟢_Now_booking-Book_a_call-2EA043?style=for-the-badge" alt="Now booking — book a call"/></a>
   <a href="https://serhii.pro"><img src="https://img.shields.io/badge/serhii.pro-Website-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
   <a href="https://www.linkedin.com/in/serhii-panchyshyn/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://twitter.com/s_panchyshyn"><img src="https://img.shields.io/badge/@s__panchyshyn-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"/></a>
@@ -24,6 +24,8 @@ I help teams **ship AI features, fix activation, and rebuild internal workflows*
 
 One seat across **product, growth engineering, and applied AI**. Embedded with your team: standups, Slack, PRs. **Shipping in week one, not a deck in week three.**
 
+And shipping is the easy half. **AI systems don't crash — they rot.** Everything I ship comes with the evals, drift detection, and cost control to catch it when it does — so you hear it from a dashboard, not a customer.
+
 ## 🎯 Outcomes
 
 - 🚢 **AI in production**, not in decks
@@ -32,6 +34,20 @@ One seat across **product, growth engineering, and applied AI**. Embedded with y
 - 🔁 **Growth loops** that compound after I'm gone
 - 📈 **Measurable lifts** in conversion and retention
 - 🎓 **A team that ships AI without me**
+- 🧾 **AI you can prove was correct** — when someone senior asks why
+
+## 🛡️ Shipped is not the finish line
+
+The provider quietly swaps the model behind your endpoint. The bill creeps from $3K to $30K in increments that each looked small. Someone senior asks you to prove an output was correct on a specific date. **None of these throw an exception** — your monitoring watches for crashes, and AI doesn't crash. It rots.
+
+That's why every build I hand off includes the assurance layer:
+
+| | |
+|---|---|
+| ✅ **Evals** | Output quality verified *before* a single user sees it |
+| 📉 **Drift detection** | Catch quality decay before customers do |
+| 💰 **Cost control** | Know what every line on the AI bill does |
+| 🧾 **Evidence trail** | Answers ready for when someone with authority asks *why* |
 
 ## 📊 Receipts
 
@@ -112,7 +128,7 @@ Two years in compliance at PwC, then seven years building software — three of 
 
 Start with a **2-week sprint** — a working system in your hands in two weeks. Or go retainer: ongoing partner, systems shipped weekly.
 
-> **[Book a call →](https://serhii.pro)**
+> **[Book an intro call →](https://cal.com/serhiip/intro-call)**
 
 <div align="center">
 
