@@ -13,7 +13,7 @@
   <a href="https://serhii.pro"><img src="https://img.shields.io/badge/serhii.pro-Website-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
   <a href="https://www.linkedin.com/in/serhii-panchyshyn/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://twitter.com/s_panchyshyn"><img src="https://img.shields.io/badge/@s__panchyshyn-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"/></a>
-  <a href="mailto:panchyshyn.serhii@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:hi@animanovalabs.com"><img src="https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 </div>
