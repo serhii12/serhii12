@@ -3,13 +3,13 @@
 # Serhii Panchyshyn
 
 <a href="https://serhii.pro">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=AI+Forward+Deployed+Engineer;I+embed+with+your+team+and+ship+AI+into+production;Product+%C2%B7+Growth+Engineering+%C2%B7+Applied+AI;Shipping+in+week+one%2C+not+a+deck+in+week+three;Evals+%C2%B7+drift+detection+%C2%B7+cost+control+built+in" alt="AI Forward Deployed Engineer — Product, Growth Engineering, Applied AI, with evals, drift detection and cost control built in" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=AI+spend+%2B+assurance+for+B2B+SaaS;I+cut+a+client%27s+AI+bill+from+%24100K+to+%248K+a+month;30%25+of+your+AI+spend+found+—+or+the+audit+is+free;Evals+%C2%B7+drift+detection+%C2%B7+cost+control;Ex-PwC+compliance+%C2%B7+7+years+in+production" alt="AI spend and assurance for B2B SaaS — evals, drift detection, cost control. Ex-PwC compliance, 7 years in production." />
 </a>
 
-### I embed with your team and ship AI into production.
+### I audit production AI: what it costs, how it fails, and how you prove it works.
 
 <p>
-  <a href="https://cal.com/serhiip/intro-call"><img src="https://img.shields.io/badge/🟢_Now_booking-Book_a_call-2EA043?style=for-the-badge" alt="Now booking — book a call"/></a>
+  <a href="https://cal.com/serhiip/intro-call"><img src="https://img.shields.io/badge/🟢_Now_booking_August-1_audit_slot-2EA043?style=for-the-badge" alt="Now booking August — 1 audit slot"/></a>
   <a href="https://serhii.pro"><img src="https://img.shields.io/badge/serhii.pro-Website-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
   <a href="https://www.linkedin.com/in/serhii-panchyshyn/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://twitter.com/s_panchyshyn"><img src="https://img.shields.io/badge/@s__panchyshyn-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"/></a>
@@ -20,67 +20,53 @@
 
 ---
 
-I help teams **ship AI features, fix activation, and rebuild internal workflows** — without scaling headcount.
+I cut a client's AI bill from **$100K to $8K a month**. Same product, same traffic, same quality bar. The spend was in the routing, the retries, and the models nobody had questioned.
 
-One seat across **product, growth engineering, and applied AI**. Embedded with your team: standups, Slack, PRs. **Shipping in week one, not a deck in week three.**
+That's the work: **AI spend and assurance for B2B SaaS with AI in production.** Your feature shipped. Now the bill has five figures in it that nobody can explain, and one day a customer, auditor, or board member will ask you to prove the outputs are correct. I make both questions survivable.
 
-And shipping is the easy half. **AI systems don't crash — they rot.** Everything I ship comes with the evals, drift detection, and cost control to catch it when it does — so you hear it from a dashboard, not a customer.
+## 💸 The AI Spend Audit
 
-## 🎯 Outcomes
+One week inside your production AI stack. **$9,500, fixed fee.** Five deliverables, in writing:
 
-- 🚢 **AI in production**, not in decks
-- 🔧 **Internal systems** your team actually uses
-- 🤖 **Customer-facing AI** competitors don't have
-- 🔁 **Growth loops** that compound after I'm gone
-- 📈 **Measurable lifts** in conversion and retention
-- 🎓 **A team that ships AI without me**
-- 🧾 **AI you can prove was correct** — when someone senior asks why
+| | |
+|---|---|
+| 🗺️ **Cost map** | Where every dollar of your AI bill goes — by model, route, and feature |
+| ✂️ **Savings plan** | Itemised changes your team can execute in normal sprints |
+| ✅ **Eval coverage report** | What's tested vs. what's hoped |
+| ⚠️ **Model risk register** | What breaks when providers change things |
+| 🔥 **Failure mode inventory** | How your system fails, and who finds out |
 
-## 🛡️ Shipped is not the finish line
+> **The guarantee:** I identify at least 30% of your AI infrastructure spend in itemised annual savings — or the audit is free. No asterisks beyond that.
+
+The fee is credited in full toward anything we do after. **[How it works →](https://serhii.pro)**
+
+## 🛡️ Why "audit" is the right word
 
 The provider quietly swaps the model behind your endpoint. The bill creeps from $3K to $30K in increments that each looked small. Someone senior asks you to prove an output was correct on a specific date. **None of these throw an exception** — your monitoring watches for crashes, and AI doesn't crash. It rots.
 
-That's why every build I hand off includes the assurance layer:
-
-| | |
-|---|---|
-| ✅ **Evals** | Output quality verified *before* a single user sees it |
-| 📉 **Drift detection** | Catch quality decay before customers do |
-| 💰 **Cost control** | Know what every line on the AI bill does |
-| 🧾 **Evidence trail** | Answers ready for when someone with authority asks *why* |
+I did tax compliance at PwC before seven years of software, the last three on production LLM systems. I've been on the other side of the table when an output is wrong and someone with authority asks why. Engineer enough to fix your system. Compliance enough to defend it.
 
 ## 📊 Receipts
 
+- 💸 One client's monthly AI bill: **$100K → $8K**. Same product, same traffic.
 - ✂️ Cut projected AI infrastructure costs by **35%** through model routing analysis
-- 🚀 Took a company's first generative AI feature from **zero to production in 10 weeks**
 - 🔬 Built the **evaluation framework** that verified output quality before a single user saw it
 - 👁️ Shipped the **observability layer** that catches AI quality drift before customers do
+- 🚀 Took a company's first generative AI feature from **zero to production in 10 weeks**
 - ⏱️ Automated a manual workflow that was costing an ops team **~10 hours a week**
 
-## 🧭 How I work
+## 🔄 After the audit
 
-| | |
-|---|---|
-| 🪑 **I sit inside your team** | Standups, Slack, PRs. Not an agency, not a deck — a teammate who ships. |
-| 🎛️ **One seat, three jobs** | Product, growth engineering, and applied AI in one person. Two exits and AI products in production. |
-| 🌱 **The work compounds** | When I leave, your team ships AI without me. Patterns, playbooks, internal champions. |
-
-**Engagements:**
-
-| ⚡ 2-Week Sprint | 🔄 Monthly Retainer | 🛠️ Forward Deployed |
-|---|---|---|
-| A working system in your hands in two weeks | Ongoing partner. Systems shipped weekly | Prefer to build it yourself? Hands-on AI co-building, month to month |
+You keep the written plan either way — run it yourselves, or keep me on. Most clients continue into a fixed-scope build of the monitoring and eval stack, or an ongoing **assurance retainer**: dashboards reviewed weekly, evals signed off before ships, the next model deprecation handled before it's a fire.
 
 ## 🛤️ The road here
 
 ```text
-PwC (tax compliance) ──► Full-stack engineer ──► Senior SWE @ logistics SaaS ──► AI Forward Deployed Engineer
-     2017–2018              2019 onward             Golang/Node microservices,        embedded builds, evals,
-                                                    3rd-party integrations,           growth loops — @animanova
+PwC (tax compliance) ──► Full-stack engineer ──► Senior SWE @ logistics SaaS ──► AI spend & assurance
+     2017–2018              2019 onward             Golang/Node microservices,        audits, evals, cost
+                                                    3rd-party integrations,           control — @animanova
                                                     testing strategy rebuild
 ```
-
-Two years in compliance at PwC, then seven years building software — three of them on production LLM systems. I've been on the other side of the table when an output is wrong and someone senior asks why. It's why I build AI systems that can survive an audit.
 
 ## 🛠️ Toolbox
 
@@ -126,9 +112,9 @@ Two years in compliance at PwC, then seven years building software — three of 
 
 ## 🤝 Work with me
 
-Start with a **2-week sprint** — a working system in your hands in two weeks. Or go retainer: ongoing partner, systems shipped weekly.
+If there's a line on your AI bill nobody can explain — or you couldn't prove your outputs were correct last Tuesday — start with the audit. Twenty minutes to scope it; I'll tell you what I'd expect to find.
 
-> **[Book an intro call →](https://cal.com/serhiip/intro-call)**
+> **[Book a 20-minute call →](https://cal.com/serhiip/intro-call)**
 
 <div align="center">
 
