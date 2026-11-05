@@ -3,70 +3,72 @@
 # Serhii Panchyshyn
 
 <a href="https://serhii.pro">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=AI+spend+%2B+assurance+for+B2B+SaaS;I+cut+a+client%27s+AI+bill+from+%24100K+to+%248K+a+month;30%25+of+your+AI+spend+found+—+or+the+audit+is+free;Evals+%C2%B7+drift+detection+%C2%B7+cost+control;Ex-PwC+compliance+%C2%B7+7+years+in+production" alt="AI spend and assurance for B2B SaaS — evals, drift detection, cost control. Ex-PwC compliance, 7 years in production." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=F5531B&center=true&vCenter=true&width=680&lines=Your+AI+pilots%2C+live+in+4+weeks;Fractional+CTO+%2B+AI+engineer+for+private+equity;Map+the+workflow+%C2%B7+delete+the+waste+%C2%B7+build+%C2%B7+measure;Ex-PwC+tax+%C2%B7+venture-backed+SaaS+since+2019" alt="Your AI pilots, live in 4 weeks. Fractional CTO and AI engineer for private equity." />
 </a>
 
-### I audit production AI: what it costs, how it fails, and how you prove it works.
+### For operating partners and portfolio CEOs. We map one workflow, delete the waste, build what is left and measure it. Your board gets the before and after.
 
 <p>
-  <a href="https://cal.com/serhiip/intro-call"><img src="https://img.shields.io/badge/🟢_Now_booking_August-1_audit_slot-2EA043?style=for-the-badge" alt="Now booking August — 1 audit slot"/></a>
-  <a href="https://serhii.pro"><img src="https://img.shields.io/badge/serhii.pro-Website-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+  <a href="https://cal.com/serhiip/intro-call?utm_source=github&utm_medium=profile&utm_content=badge"><img src="https://img.shields.io/badge/Now_booking-Dec_2026_%26_Jan_2027-F5531B?style=for-the-badge" alt="Now booking December 2026 and January 2027"/></a>
+  <a href="https://serhii.pro"><img src="https://img.shields.io/badge/serhii.pro-Website-1B2030?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
   <a href="https://www.linkedin.com/in/serhii-panchyshyn/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/s_panchyshyn"><img src="https://img.shields.io/badge/@s__panchyshyn-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"/></a>
-  <a href="mailto:hi@animanovalabs.com"><img src="https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://x.com/s_panchyshyn"><img src="https://img.shields.io/badge/@s__panchyshyn-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="mailto:serhii.panchyshyn@animanovalabs.com"><img src="https://img.shields.io/badge/Email-Say%20hi-12141A?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"/></a>
 </p>
 
 </div>
 
 ---
 
-I cut a client's AI bill from **$100K to $8K a month**. Same product, same traffic, same quality bar. The spend was in the routing, the retries, and the models nobody had questioned.
+Most AI pilots speed up the minutes of work and leave the days of waiting in place. Funds end up with pilots in three companies and none of them running the business. **I start with the waiting:** map one real workflow from your logs, delete the steps that exist only for rework and handoffs, build what is left, and measure it again.
 
-That's the work: **AI spend and assurance for B2B SaaS with AI in production.** Your feature shipped. Now the bill has five figures in it that nobody can explain, and one day a customer, auditor, or board member will ask you to prove the outputs are correct. I make both questions survivable.
+## 📊 Results with names and numbers
 
-## 💸 The AI Spend Audit
+| Client | What we built | Result |
+|---|---|---|
+| Public pharma company, IT team of 21 | Hands-on AI workshop | Working apps in **one afternoon** |
+| ContactMonkey, $55M Series A SaaS | First generative AI feature | Live in **10 weeks**, **35%** lower projected AI cost |
+| Rose Rocket, Y Combinator logistics SaaS | Operations workflow automation | **10 hours a week** back for the ops team |
+| Private equity firm | Claude workspace with the firm's brand and document standards | On-brand, investor-ready documents from a prompt. Signed off in writing in **under two weeks** |
 
-One week inside your production AI stack. **$9,500, fixed fee.** Five deliverables, in writing:
+> "He gets results stunningly quickly." — Bret Dawson, Engineering Lead, Rose Rocket
+
+## 🚀 One tool live in 4 weeks
+
+The standard first engagement. One workflow, with one owner on your side:
 
 | | |
 |---|---|
-| 🗺️ **Cost map** | Where every dollar of your AI bill goes — by model, route, and feature |
-| ✂️ **Savings plan** | Itemised changes your team can execute in normal sprints |
-| ✅ **Eval coverage report** | What's tested vs. what's hoped |
-| ⚠️ **Model risk register** | What breaks when providers change things |
-| 🔥 **Failure mode inventory** | How your system fails, and who finds out |
+| 🗺️ **The workflow mapped from your logs** | Hours of work and days of waiting on every step |
+| ⚙️ **The tool in production** | Inside the systems your team already uses. No new screen, no migration |
+| 📄 **A one-page board readout** | Before and after numbers your board and a future buyer can check |
+| 📘 **A runbook and a handover** | Your team runs and changes the tool without me |
+| 🧭 **Your next five workflows, ranked** | With what each one costs you to leave as it is |
 
-> **The guarantee:** I identify at least 30% of your AI infrastructure spend in itemised annual savings — or the audit is free. No asterisks beyond that.
+## 🧾 What you can buy
 
-The fee is credited in full toward anything we do after. **[How it works →](https://serhii.pro)**
+**For the fund:** portfolio AI review (2 weeks) · AI due diligence (2 to 3 weeks) · hands-on workshop (1 day) · AI workspace for the firm (2 to 4 weeks)
 
-## 🛡️ Why "audit" is the right word
+**For a portfolio company:** first tool live (4 weeks) · agentic workflows · fractional CTO · custom software and SaaS
 
-The provider quietly swaps the model behind your endpoint. The bill creeps from $3K to $30K in increments that each looked small. Someone senior asks you to prove an output was correct on a specific date. **None of these throw an exception** — your monitoring watches for crashes, and AI doesn't crash. It rots.
+Each step is fixed in scope. Prices come after a call, once I know your setup. **[Details →](https://serhii.pro/#services)**
 
-I did tax compliance at PwC before seven years of software, the last three on production LLM systems. I've been on the other side of the table when an output is wrong and someone with authority asks why. Engineer enough to fix your system. Compliance enough to defend it.
+## 🔁 How I work
 
-## 📊 Receipts
-
-- 💸 One client's monthly AI bill: **$100K → $8K**. Same product, same traffic.
-- ✂️ Cut projected AI infrastructure costs by **35%** through model routing analysis
-- 🔬 Built the **evaluation framework** that verified output quality before a single user saw it
-- 👁️ Shipped the **observability layer** that catches AI quality drift before customers do
-- 🚀 Took a company's first generative AI feature from **zero to production in 10 weeks**
-- ⏱️ Automated a manual workflow that was costing an ops team **~10 hours a week**
-
-## 🔄 After the audit
-
-You keep the written plan either way — run it yourselves, or keep me on. Most clients continue into a fixed-scope build of the monitoring and eval stack, or an ongoing **assurance retainer**: dashboards reviewed weekly, evals signed off before ships, the next model deprecation handled before it's a fire.
+1. **Map the real process** — from system logs and interviews, with the hours of work and days of waiting on each step.
+2. **Delete the waste** — steps that exist only for rework or handoffs go before anything gets automated.
+3. **Build what is left** — plain code first, agents where judgment pays, and a person on every decision that moves money.
+4. **Measure it again** — tested on cases with known answers, run next to the old way, and measured again at 30 days.
 
 ## 🛤️ The road here
 
 ```text
-PwC (tax compliance) ──► Full-stack engineer ──► Senior SWE @ logistics SaaS ──► AI spend & assurance
-     2017–2018              2019 onward             Golang/Node microservices,        audits, evals, cost
-                                                    3rd-party integrations,           control — @animanova
-                                                    testing strategy rebuild
+PwC (tax compliance) ──► Taught myself to code ──► Rose Rocket (YC), almost 6 yrs ──► Fractional CTO + AI engineer
+     2017–2018            venture-backed SaaS                                         for PE funds and their
+                          since 2019                                                  portfolio companies
 ```
+
+Member of the **Claude Partner Network**.
 
 ## 🛠️ Toolbox
 
@@ -77,13 +79,16 @@ PwC (tax compliance) ──► Full-stack engineer ──► Senior SWE @ logist
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" alt="Astro"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/gRPC-2396AE?style=flat-square&logo=trpc&logoColor=white" alt="gRPC"/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
   <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Anthropic Claude"/>
-  <img src="https://img.shields.io/badge/Whisper-74AA9C?style=flat-square&logo=openai&logoColor=white" alt="Whisper"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="Salesforce"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" alt="Slack"/>
 </p>
 
 ## 🔨 Things I've built in the open
@@ -112,12 +117,12 @@ PwC (tax compliance) ──► Full-stack engineer ──► Senior SWE @ logist
 
 ## 🤝 Work with me
 
-If there's a line on your AI bill nobody can explain — or you couldn't prove your outputs were correct last Tuesday — start with the audit. Twenty minutes to scope it; I'll tell you what I'd expect to find.
+Pick one pilot. Live in 4 weeks. Book 30 minutes and bring one workflow that is stuck: we work out what the waiting costs you, and you leave with a yes or no on fit.
 
-> **[Book a 20-minute call →](https://cal.com/serhiip/intro-call)**
+> **[Book a 30-minute call →](https://cal.com/serhiip/intro-call?utm_source=github&utm_medium=profile&utm_content=cta)**
 
 <div align="center">
 
-<sub>⚡ Fun fact: I did tax compliance before I wrote software. Auditors made me the engineer I am — I build systems that answer questions before they're asked.</sub>
+<sub>⚡ I started in tax compliance at PwC, where partners asked one question about every file: how do you know this is right? Every tool I build still has to answer it.</sub>
 
 </div>
